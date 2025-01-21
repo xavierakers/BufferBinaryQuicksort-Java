@@ -4,6 +4,9 @@ import java.io.IOException;
 
 /**
  * Interface for BufferPool operations
+ *
+ * @author Xavier Akers
+ * @version 2025-01-16
  */
 public interface BufferPoolInterface {
 
